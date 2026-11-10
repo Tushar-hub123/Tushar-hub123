@@ -7,7 +7,7 @@
 
 I'm a passionate developer who enjoys building scalable web applications and solving challenging algorithmic problems. I love exploring new technologies and turning ideas into practical software solutions.
 
-- 💻 Solved **700+ DSA problems** on LeetCode.
+- 💻 Solved **800+ DSA problems** on LeetCode.
 - 🧠 Solved approximately **100 problems on Codeforces**.
 - 🚀 Experienced in building full-stack applications using the MERN stack.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
@@ -46,12 +46,7 @@ I'm a passionate developer who enjoys building scalable web applications and sol
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 **LeetCode:** Solved 700+ DSA problems.
-- 💡 **Codeforces:** Solved approximately 100 problems; maximum rating 1085.
-- 🏅 **Smart India Hackathon 2025:** Received Certificate of Appreciation in the internal round organized by NIT Kurukshetra.
-- 🎯 **JEE Main:** Secured 99.24 percentile and qualified JEE Advanced.
 
 ---
 
